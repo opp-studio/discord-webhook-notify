@@ -5,13 +5,13 @@
   "author": "rjstone@github",
   "type": "module",
   "private": false,
-  "homepage": "https://github.com/RavenX8/discord-webhook-notify",
+  "homepage": "https://github.com/opp-studio/discord-webhook-notify",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RavenX8/discord-webhook-notify.git"
+    "url": "git+https://github.com/opp-studio/discord-webhook-notify.git"
   },
   "bugs": {
-    "url": "https://github.com/RavenX8/discord-webhook-notify/issues"
+    "url": "https://github.com/opp-studio/discord-webhook-notify/issues"
   },
   "keywords": [
     "actions",
